@@ -1,9 +1,0 @@
-Package: com.cann66.clearmycc
-Name: ClearMyCC
-Author: Cann66
-Description: It make your CC clean and speed up your device a bit more
-Depends: mobilesubstrate
-Maintainer: Cann66
-Architecture: iphoneos-arm
-Section: Tweaks
-Version: 1.0
